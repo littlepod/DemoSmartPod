@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 #
-s.name         = "SmartViewSDK-iOS"
+s.name         = "DemoSmartPod"
 s.version      = "1.0.0"
 s.summary      = " this is test and trial only A smartview test app like the Activity status bars"
 s.description  = "This is a pod spec file for SmartView SDK framework. This podspec file may or may not work at present as development and test is under progress."
